@@ -10,7 +10,7 @@ const USER_CONFIG = {
   USE_PASSAGE: 'push-plus',
   
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '3v68APtDjV2pSEf6PJw3x76_Bk_8sWWuWbFLA-NbWe8',
+  APP_ID: 'wx68ee52ebc38928f4',
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'ca2eea16e4483a95b06f40b7a38b3876',

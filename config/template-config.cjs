@@ -36,7 +36,7 @@ const TEMPLATE_CONFIG = [
     `
   },
   {
-    id: '3v68APtDjV2pSEf6PJw3x76_Bk_8sWWuWbFLA-NbWe8	',
+    id: '3v68APtDjV2pSEf6PJw3x76_Bk_8sWWuWbFLA-NbWe8',
     title: '推送完成提醒',
     desc: `
       服务器信息：{{post_time_zone.DATA}} {{post_time.DATA}}
